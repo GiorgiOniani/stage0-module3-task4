@@ -7,15 +7,10 @@ public class IntRepresentation {
         char a = 'a';
         char r = 'r';
 
-        int intC = (int) c;
-        int intH = (int) h;
-        int intA = (int) a;
-        int intR = (int) r;
-
-        System.out.println(intC);
-        System.out.println(intH);
-        System.out.println(intA);
-        System.out.println(intR);
+        System.out.println((int)c);
+        System.out.println((int)h);
+        System.out.println((int)a);
+        System.out.println((int)r);
 
     }
 }
